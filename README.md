@@ -14,8 +14,8 @@ I'm a Python Developer
 
 Languages:
 
-Python, HTML5, JavaScript, CSS, Java, C++, MySQL, Postgre-SQL, Android, Swift.
+        - Python - HTML5 - JavaScript - CSS - Java - C++ - MySQL - Postgre-SQL - Android - Swift
 
 Tools:
 
-PyCharm, Visual Studio, Flask, Django, Eclipse.
+        - PyCharm - Visual Studio - Flask - Django - Eclipse

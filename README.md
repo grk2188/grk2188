@@ -7,7 +7,7 @@
 
 
 - 🔭 I’m currently seeking job in Python Developer 🇺🇸.
-- 🌱 I’m currently mastering software developer, web scraping, automation and website development in Python.
+- 🌱 I’m currently mastering software developer, web scraping, and automation in Python.
 - 👯 I’m looking to collaborate on @gkapadia on Linkedin
 - ⚡ Fun fact: I love to play video games and read books
 

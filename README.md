@@ -14,7 +14,7 @@
 
 ### Languages:
 
-        • Python • HTML5 • JavaScript • CSS • Java • C++ • MySQL • Postgre-SQL • Android • Swift
+        • Python • HTML5 • JavaScript • CSS • Java • C++ • MySQL • Postgre-SQL • Android
 
 ### Tools:
 

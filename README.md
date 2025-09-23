@@ -3,19 +3,19 @@
 <!--
 **grk2188/grk2188** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### I'm a Python Developer
+### I'm a Software Enginner.
 
 
-- 🔭 I’m currently seeking job in Python Developer 🇺🇸.
-- 🌱 I’m currently mastering software developer, web scraping, and automation in Python.
+- 🔭 I do work as Full stack Web Developer, Backend or Python Developer 🇺🇸.
+- 🌱 I’m mastering software developer, and automation in Python.
 - 👯 I’m looking to collaborate on @gkapadia on Linkedin
-- ⚡ Fun fact: I love to play video games and read books
+- ⚡ Fun fact: I love to read books and work on innovative projects.
 
 
 ### Languages:
 
-        • Python • HTML5 • JavaScript • CSS • Java • C++ • MySQL • Postgre-SQL • Android
+        • Python • HTML5 • JavaScript • CSS • Java • MySQL • Postgre-SQL • TypeScript
 
 ### Tools:
 
-        • PyCharm • Visual Studio • Flask • Django • Eclipse
+        • PyCharm • VS Code • Flask • Django • React • Angular

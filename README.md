@@ -6,7 +6,7 @@
 ### I'm a Software Enginner.
 
 
-- 🔭 I work as Full stack Web Developer, Backend or Python Developer 🇺🇸.
+- 🔭 I worked as Full stack Web Developer, Backend or Python Developer 🇺🇸.
 - 👯 I’m looking to collaborate on @gkapadia on Linkedin
 - ⚡ Fun fact: I love to read books and work on innovative projects.
 

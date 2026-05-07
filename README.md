@@ -6,15 +6,15 @@
 ### I'm a Software Enginner.
 
 
-- 🔭 I worked as Full stack Web Developer, Backend or Python Developer 🇺🇸.
-- 👯 I’m looking to collaborate on @gkapadia on Linkedin
-- ⚡ Fun fact: I love to read books and work on innovative projects.
+- I working as Full stack Web Developer 🇺🇸.
+- I’m looking to collaborate on @gkapadia on Linkedin
+- Fun fact: I love to read books and work on innovative projects.
 
 
 ### Languages:
 
-        • Python • HTML5 • JavaScript • TypeScript  • CSS • MySQL • Postgre-SQL • MongoDB
+         • HTML5 • JavaScript • TypeScript  • CSS • MySQL • Postgre-SQL • MongoDB • Python
 
 ### Tools:
 
-        • PyCharm • VS Code • Flask • Django • React • Angular • Express
+        • VS Code • Flask • Django • React • Angular • Express • PyCharm 
